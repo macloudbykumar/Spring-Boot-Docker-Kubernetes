@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: springboot-h2-demo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: springboot-h2-demo
+  template:
+    metadata:
+      labels:
+        app: springboot-h2-demo
+    spec:
+      containers:
+        - name: springboot-h2-demo
+          image: springboot-h2-demo:latest
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 8080
