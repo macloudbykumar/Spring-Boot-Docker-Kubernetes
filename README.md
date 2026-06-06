@@ -380,7 +380,7 @@ Training delivery formats include:
 
 ## 🔗 LinkedIn
 
-👉 [Follow EduArn on LinkedIn](https://www.linkedin.com/company/eduarn)
+👉 Subscribe on [LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7367433347712643072)
 
 ---
 
